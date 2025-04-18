@@ -4,8 +4,6 @@ A new Flutter project.
 
 ## 💖 赞助支持 / Sponsor
 如果您喜欢这个项目，可以请作者喝杯咖啡 ☕  
-
-## 🎗️ 赞助渠道
 | 平台       | 赞助链接                          |
 |------------|----------------------------------|
 | 爱发电     | [![爱发电](https://img.shields.io/badge/-点击支持-FFDD00?style=flat-square&logo=alipay&logoColor=000)](https://afdian.com/a/mxcos) |
